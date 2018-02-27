@@ -58,3 +58,4 @@ typings/
 .env
 
 sample/
+package-lock.json

@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siyong/node_pdftoppm.git"
+  },
   "dependencies": {
     "cross-spawn": "^6.0.4",
     "lodash": "^4.17.5"
