@@ -1,6 +1,6 @@
 const pdf2ppm = require('./lib/node-pdftoppm');
 
-const path = require('path');
+/* const path = require('path');
 
 
 const filePath = path.join(__dirname, './sample/test.pdf');
@@ -11,6 +11,6 @@ pdf2ppm(filePath, destinationFolder, 'hello', 'png', (error, data) => {
     }
     console.log('result', data);
 });
-
+ */
 
 module.exports = pdf2ppm;
